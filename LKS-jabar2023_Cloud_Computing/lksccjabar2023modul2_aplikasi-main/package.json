@@ -1,0 +1,7 @@
+{
+  "name": "lksccjabar2023modul2_aplikasi",
+  "version": "1.0.0",
+  "scripts": {
+    "install-sharp": "npm install sharp --prefix image-processing/ --platform=linux --arch=x64"
+  }
+}
